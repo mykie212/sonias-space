@@ -1,0 +1,23 @@
+body {
+    font-family: "Josefin Slab", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Dancing Script", cursive;
+}
+
+footer {
+    background-image: linear-gradient(to right, rgb(250, 218, 223), white);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, rgb(250, 218, 223), white);
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
